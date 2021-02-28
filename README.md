@@ -1,6 +1,6 @@
 # Hex Colour Generator - Looping over array
 
-> An app that generates a hex code and changes the background colour of the page everytime the user presses the button. 
+> An app that generates a hex code and changes the background colour of the page every time the user presses the button. 
 
 
 Check out my Hex Code Generator: http://www.joshhaokip.com/Project-3-ForLoop-Hex-Colour/
